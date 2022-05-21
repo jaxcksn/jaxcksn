@@ -17,8 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                   █████████████████████████   99.85 %
-Markdown                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
