@@ -17,7 +17,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript                   ██████████████▓░░░░░░░░░░   58.11 %
+JavaScript                   ███████░░░░░░░░░░░░░░░░░░   27.56 %
+Markdown                     ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+JSON                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
