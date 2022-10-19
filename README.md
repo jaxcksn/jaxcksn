@@ -17,9 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                   ███████████▓░░░░░░░░░░░░░   47.02 %
-JSON                         ███████████░░░░░░░░░░░░░░   44.05 %
-HTML                         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
