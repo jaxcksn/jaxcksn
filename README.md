@@ -19,10 +19,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-C++                        ████████████████████▒░░░░   81.20 %
-Ezhil                      ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-Makefile                   █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-C                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+C++                     ████████████████▓░░░░░░░░   66.54 %
+Other                   ████████▒░░░░░░░░░░░░░░░░   33.46 %
 ```
 
 <!--END_SECTION:waka-->
