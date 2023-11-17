@@ -19,11 +19,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Python                       ████████████▓░░░░░░░░░░░░   50.41 %
-TypeScript                   █████████▓░░░░░░░░░░░░░░░   38.06 %
-SCSS                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-JSON                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-JavaScript                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Python                   █████████████████████████   99.99 %
+Other                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
