@@ -19,9 +19,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Python                   ████████████████████████▒   97.53 %
-Other                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-JSON                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
