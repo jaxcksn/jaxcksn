@@ -19,7 +19,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Perl                     ██████████████████░░░░░░░   72.18 %
+Prolog                   ███████░░░░░░░░░░░░░░░░░░   27.82 %
 ```
 
 <!--END_SECTION:waka-->
