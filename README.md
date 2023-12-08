@@ -19,8 +19,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Perl                     ██████████████████░░░░░░░   72.18 %
-Prolog                   ███████░░░░░░░░░░░░░░░░░░   27.82 %
+Perl                     ████████████░░░░░░░░░░░░░   48.29 %
+Python                   ████████▒░░░░░░░░░░░░░░░░   33.10 %
+Prolog                   ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
 ```
 
 <!--END_SECTION:waka-->
