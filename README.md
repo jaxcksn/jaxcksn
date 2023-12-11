@@ -19,10 +19,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     ███████████████▒░░░░░░░░░   60.99 %
-Markdown                   ███████▓░░░░░░░░░░░░░░░░░   30.95 %
-Perl                       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Prolog                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Python                     ████████████████▓░░░░░░░░   66.34 %
+Markdown                   ████████▒░░░░░░░░░░░░░░░░   33.66 %
 ```
 
 <!--END_SECTION:waka-->
