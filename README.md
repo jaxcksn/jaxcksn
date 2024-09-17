@@ -9,6 +9,8 @@ I also do some graphic design work on the side, including UI design.
 You can check at my full portfolio and resume at [jaxcksn.dev](https://jaxcksn.dev/)
 
 ## Public Projects
+[AlertGx](https://alertgx.jaxcksn.dev/) - A completely in-browser web app for generating detailed infographics of NWS issued weather warnings.
+
 [FSMD](https://github.com/jaxcksn/FSMD) - A Python CLI tool for creating diagrams of finite state machines. Easy to install and use!
 
 [CS Degree Plan Tool](https://csplan.jaxcksn.dev/) - Build a Texas Tech Computer Science degree plan from the comfort of your browser and share it or save it to work on later. (Built with ReactJS, check out the [source code here](https://github.com/jaxcksn/CompSciDegreePlan))
