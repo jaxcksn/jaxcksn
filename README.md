@@ -5,7 +5,10 @@ First of all, welcome to my Github. I'm a senior at Texas Tech University workin
 My favorite language/technology to work with is Javascript, React and React Native but I also know how to write in C, Java, Python and some Assembly. 
 I also do some graphic design work on the side, including UI design.
 
-### 🔨 Check Out My Latest Projects
+## Portfolio
+You can check at my full portfolio and resume at [jaxcksn.dev](https://jaxcksn.dev/)
+
+## Public Projects
 [FSMD](https://github.com/jaxcksn/FSMD) - A Python CLI tool for creating diagrams of finite state machines. Easy to install and use!
 
 [CS Degree Plan Tool](https://csplan.jaxcksn.dev/) - Build a Texas Tech Computer Science degree plan from the comfort of your browser and share it or save it to work on later. (Built with ReactJS, check out the [source code here](https://github.com/jaxcksn/CompSciDegreePlan))
