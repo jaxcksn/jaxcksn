@@ -1,6 +1,6 @@
 # Howdy, My Name is Jackson 🤠
 
-First of all, welcome to my Github. I'm a senior at Texas Tech University working on a Computer Science degree and studying to become a software engineer.
+First of all, welcome to my Github. I'm a senior at Texas Tech University working on a Computer Science degree and studying to become a software engineer. I'm also a part time software developer for Tyler Technologies!
 
 My favorite language/technology to work with is Javascript, React and React Native but I also know how to write in C, Java, Python and some Assembly. 
 I also do some graphic design work on the side, including UI design.
