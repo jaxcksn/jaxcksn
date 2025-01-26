@@ -1,19 +1,19 @@
-# Howdy, My Name is Jackson 🤠
+# Howdy, My Name is Jackson! 🤠
 
-First of all, welcome to my Github. I'm a senior at Texas Tech University working on a Computer Science degree and studying to become a software engineer. I'm also a part-time software developer for Tyler Technologies!
+First of all, welcome to my Github! I'm a senior at Texas Tech University working on a Computer Science degree and studying to become a software engineer. I'm also a part-time software developer for Tyler Technologies, and former intern. I know a variety of languages and frameworks, including but not limited to: Javascript/Typescript, React, Angular, C#, .NET, C, C++, Go, Python, Java, Swift and HTML+CSS. Feel free to reach out if you want some information about me or any of my projects!
 
-My favorite language/technology to work with is Javascript, React and React Native but I also know how to write in C, Java, Python and some Assembly. 
-I also do some graphic design work on the side, including UI design.
-
-## Portfolio
+## 💻 Portfolio
 You can check at my full portfolio and resume at [jaxcksn.dev](https://jaxcksn.dev/)
 
-## Public Projects
+## 🛠️ Some of My Projects:
 [AlertGx](https://alertgx.jaxcksn.dev/) - A completely in-browser web app for generating detailed infographics of NWS issued weather warnings.
 
-[FSMD](https://github.com/jaxcksn/FSMD) - A Python CLI tool for creating diagrams of finite state machines. Easy to install and use!
+[JetLag: The Card Generator](https://jetlag.jaxcksn.dev/) - A tool to generate faux cards from the YouTube travel gameshow "JetLag" built with React, Fabric and Vite. You can check out the [source code here](https://github.com/jaxcksn/JetLagCardGenerator).
 
-[CS Degree Plan Tool](https://csplan.jaxcksn.dev/) - Build a Texas Tech Computer Science degree plan from the comfort of your browser and share it or save it to work on later. (Built with ReactJS, check out the [source code here](https://github.com/jaxcksn/CompSciDegreePlan))
+[FSMD](https://github.com/jaxcksn/FSMD) - A Python CLI tool for creating diagrams of finite state machines. Easy to install and use.
+
+[CS Degree Plan Tool](https://csplan.jaxcksn.dev/) - Build a Texas Tech Computer Science degree plan from the comfort of your browser and share it or save it to work on later, built with React. You can check out the [source code here](https://github.com/jaxcksn/CompSciDegreePlan))
+
 
 <!---
 jaxcksn/jaxcksn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
