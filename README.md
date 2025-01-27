@@ -3,7 +3,7 @@
 First of all, welcome to my Github! I'm a senior at Texas Tech University working on a Computer Science degree and studying to become a software engineer. I'm also a part-time software developer for Tyler Technologies, and former intern. I know a variety of languages and frameworks, including but not limited to: Javascript/Typescript, React, Angular, C#, .NET, C, C++, Go, Python, Java, Swift and HTML+CSS. Feel free to reach out if you want some information about me or any of my projects!
 
 ## 💻 Portfolio
-You can check at my full portfolio and resume at [jaxcksn.dev](https://jaxcksn.dev/)
+You can check out my portfolio website and resume at [jaxcksn.dev](https://jaxcksn.dev/)
 
 ## 🛠️ Some of My Projects:
 [AlertGx](https://alertgx.jaxcksn.dev/) - A completely in-browser web app for generating detailed infographics of NWS issued weather warnings.
