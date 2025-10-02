@@ -4,8 +4,7 @@ First of all, welcome to my Github! I'm a senior at Texas Tech University workin
 
 <picture>
   <source
-    srcset="
-https://readme-stats-blush-seven.vercel.app/api?username=jaxcksn&show=reviews,prs_merged,prs_merged_percentage&theme=dark"
+    srcset="https://readme-stats-blush-seven.vercel.app/api?username=jaxcksn&show=reviews,prs_merged,prs_merged_percentage&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -14,6 +13,7 @@ https://readme-stats-blush-seven.vercel.app/api?username=jaxcksn&show=reviews,pr
   />
   <img src="https://readme-stats-blush-seven.vercel.app/api?username=jaxcksn&show=reviews,prs_merged,prs_merged_percentage”/>
 </picture>
+
 
 ## 💻 Portfolio
 You can check out my portfolio website and resume at [jaxcksn.dev](https://jaxcksn.dev/)
