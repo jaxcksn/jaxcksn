@@ -2,6 +2,8 @@
 
 First of all, welcome to my Github! I'm a senior at Texas Tech University working on a Computer Science degree and studying to become a software engineer. I'm also a part-time software developer for Tyler Technologies, and former intern. I know a variety of languages and frameworks, including but not limited to: Javascript/Typescript, React, Angular, C#, .NET, C, C++, Go, Python, Java, Swift and HTML+CSS. Feel free to reach out if you want some information about me or any of my projects!
 
+![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaxcksn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ## 💻 Portfolio
 You can check out my portfolio website and resume at [jaxcksn.dev](https://jaxcksn.dev/)
 
