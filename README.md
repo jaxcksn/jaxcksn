@@ -4,14 +4,6 @@ First of all, welcome to my Github! I'm a full time software developer at Tyler 
 
 I know a variety of languages and frameworks, including but not limited to: Javascript/Typescript, React, Angular, C#, .NET, C, C++, Go, Python, Java, Swift and HTML+CSS. Feel free to reach out if you want some information about me or any of my projects! (Go is my current favorite!)
 
-
-<div align="left">
-<picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-blush-seven.vercel.app/api?username=jaxcksn&show=reviews,prs_merged,prs_merged_percentage&theme=dark">
-        <img src="https://readme-stats-blush-seven.vercel.app/api?username=jaxcksn&show=reviews,prs_merged,prs_merged_percentage">
-</picture>
-</div>
-
 ## 💻 Portfolio
 You can check out my portfolio website and resume at [jaxcksn.dev](https://jaxcksn.dev/)
     
