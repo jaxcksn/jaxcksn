@@ -2,7 +2,7 @@
 
 First of all, welcome to my Github! I'm a full time software developer at Tyler Tech and I have a B.S. in Computer Science from Texas Tech (Wreck Em!)
 
-I know a variety of languages and frameworks, including but not limited to: Javascript/Typescript, React, Angular, C#, .NET, C, C++, Go, Python, Java, Swift and HTML+CSS. Feel free to reach out if you want some information about me or any of my projects! (Go is my current favorite!)
+I know a variety of languages and frameworks, including but not limited to: Javascript/Typescript, React, Angular, C# (.NET), C & C++, Go, Python, Java, Swift and HTML+CSS. Feel free to reach out if you want some information about me or any of my projects! (Go is my current favorite!)
 
 ## 💻 Portfolio
 You can check out my portfolio website and resume at [jaxcksn.dev](https://jaxcksn.dev/)
