@@ -8,13 +8,13 @@ I know a variety of languages and frameworks, including but not limited to: Java
 You can check out my portfolio website and resume at [jaxcksn.dev](https://jaxcksn.dev/)
     
 ## 🛠️ Some of My Projects:
+[Twip](https://github.com/jaxcksn/twip) - A high-fidelity DOCX engine available in your browser, desktop and server. Written in Rust.
+
 [Arcantect](https://arcantect.io/) - A magic themed cloud architecture puzzle game, written in Typescript.
 
 [AlertGx](https://alertgx.jaxcksn.dev/) - A completely in-browser web app for generating detailed infographics of NWS issued weather warnings.
 
 [JetLag: The Card Generator](https://jetlag.jaxcksn.dev/) - A tool to generate faux cards from the YouTube travel gameshow "JetLag" built with React, Fabric and Vite. You can check out the [source code here](https://github.com/jaxcksn/JetLagCardGenerator).
-
-[FSMD](https://github.com/jaxcksn/FSMD) - A Python CLI tool for creating diagrams of finite state machines. Easy to install and use.
 
 
 <!---
